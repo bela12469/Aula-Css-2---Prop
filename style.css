@@ -1,0 +1,22 @@
+
+.home_cabeçalho{
+  background-color: darkorange;
+  padding: 30px;
+}
+
+
+.home_navbar{
+  display: flex;
+  justify-content:flex-end;
+  gap: 20px;
+  }
+
+.home_navbar_item {
+  color: darkviolet;
+}
+
+a:hover {
+  color:antiquewhite;
+  scale: 1.5;
+}
+
